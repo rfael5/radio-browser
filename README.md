@@ -8,7 +8,7 @@ ter seu nome editado.
 Tecnologias: React.js, Typescript, Tailwind CSS, Docker.
 
 Para rodar o projeto:
-npm install
-npm start
+- npm install
+- npm start
 
 This is a challenge by Coodesh
