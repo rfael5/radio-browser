@@ -5,13 +5,13 @@ por nome, país ou lingua nativa da rádio, e adicioná-las a uma lista de favor
 para ouví-las. As radios favoritas ficam salvas e podem ser removidas da lista e
 ter seu nome editado.
 
-* Tecnologias: 
+### Tecnologias: 
 - React.js
 - Typescript
 - Tailwind CSS
 - Docker
 
-* Para rodar o projeto:
+### Para rodar o projeto:
 - npm install
 - npm start
 
